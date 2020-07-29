@@ -1,0 +1,4 @@
+{
+"parent": "block/template_wall_post", 
+"textures": { "wall": "block/walls/wall_marble_post"}
+}

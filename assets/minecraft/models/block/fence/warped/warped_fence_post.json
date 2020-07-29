@@ -1,0 +1,7 @@
+{
+    "parent": "block/fence/fence_post",
+    "textures": {
+        "particle": "block/fences/warped/warped_fence",
+        "0": "block/fences/warped/warped_fence"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/gate/wall_gate_open",
+    "textures": {
+        "particle": "block/fences/birch/birch_gate",
+        "0": "block/fences/birch/birch_gate"
+    }
+}

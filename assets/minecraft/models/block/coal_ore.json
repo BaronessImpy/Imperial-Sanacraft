@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_bottom_top",
+    
+	"textures": {
+        
+		"side": "block/coal_ore"
+,
+		"top": "block/coal_ore/marble_top",
+		"bottom": "block/coal_ore/marble_top"
+	}
+
+}

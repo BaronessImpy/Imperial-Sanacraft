@@ -1,0 +1,8 @@
+{
+    "parent": "block/fence/fence_gate_closed",
+    "textures": {
+        "particle": "block/fences/birch/birch_gate",
+        "0": "block/fences/birch/birch_gate"
+    }
+}
+

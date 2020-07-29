@@ -1,0 +1,26 @@
+{
+    "variants": {
+        "": [
+			  { "model": "block/crate/crate1" },
+			  { "model": "block/crate/crate2" },
+			  { "model": "block/crate/crate3" },
+			  { "model": "block/crate/crate4" },
+			  { "model": "block/crate/crate5" },
+			  { "model": "block/crate/crate6" },
+			  { "model": "block/crate/crate7" },
+			  { "model": "block/crate/crate8" },
+			  { "model": "block/crate/crate9" },
+			  { "model": "block/crate/crate10" },
+			  { "model": "block/crate/crate11" },
+			  { "model": "block/crate/crate12" },
+			  { "model": "block/crate/crate_sm_1" },
+  			  { "model": "block/crate/crate_sm_2" },
+  			  { "model": "block/crate/crate_sm_3" },
+  			  { "model": "block/crate/crate_sm_4" },
+  			  { "model": "block/crate/crate_sm_5" },
+  			  { "model": "block/crate/crate_sm_6" },
+  			  { "model": "block/crate/crate_sm_7" },
+  			  { "model": "block/crate/crate_sm_8" }
+		]
+    }
+}
