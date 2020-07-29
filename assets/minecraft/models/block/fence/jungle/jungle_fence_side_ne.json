@@ -1,0 +1,7 @@
+{
+    "parent": "block/fence/fence_side_ne",
+    "textures": {
+        "particle": "block/fences/jungle/jungle_fences",
+        "0": "block/fences/jungle/jungle_fence"
+    }
+}

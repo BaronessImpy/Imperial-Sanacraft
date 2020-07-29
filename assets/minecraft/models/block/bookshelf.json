@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "blocks/bookshelves/bookshelf_top",
+	   "side": "blocks/bookshelves/bookshelf_6"
+    }
+}

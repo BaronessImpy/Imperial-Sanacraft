@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "half=lower": { "model": "block/plants/tall_grass/tall_grass_bottom" },
+        "half=upper": [
+        	{ "model": "block/plants/tall_grass/0" },
+        	{ "model": "block/plants/tall_grass/1" },
+        	{ "model": "block/plants/tall_grass/2" }
+        ]
+    }
+}

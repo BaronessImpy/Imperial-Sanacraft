@@ -1,0 +1,9 @@
+{ "variants": {
+    "": [
+      { "model": "block/gravel/gravel_0", "weight": 300 },
+      { "model": "block/gravel/gravel_1", "weight": 1   },
+      { "model": "block/gravel/gravel_2", "weight": 1   },
+      { "model": "block/gravel/gravel_3", "weight": 1   }
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+    "__createdwith": "opl's Model Creator",
+    "parent": "block/block",
+    "ambientocclusion": false,
+    "textures": {
+        "particle": "#wall",
+        "wall": "#wall"
+    },
+    "elements": [
+        {
+            "from": [4,0,4],
+            "to": [12,16,12],
+            "faces": {
+                "up": {
+                    "uv": [0,5,8,13],
+                    "texture": "#wall"
+                },
+                "down": {
+                    "uv": [0,5,8,13],
+                    "texture": "#wall"
+                },
+                "west": {
+                    "uv": [0,5,6.5,13.5],
+                    "texture": "#wall"
+                },
+                "east": {
+                    "uv": [0,5,6.5,13.5],
+                    "texture": "#wall"
+                },
+                "north": {
+                    "uv": [0,5,6.5,13.5],
+                    "texture": "#wall"
+                },
+                "south": {
+                    "uv": [0,5,6.5,13.5],
+                    "texture": "#wall"
+                }
+            }
+        },
+        {
+            "from": [5,0,0],
+            "to": [11,13,16],
+            "faces": {
+                "up": {
+                    "uv": [10,0,16,8],
+                    "texture": "#wall"
+                },
+                "down": {
+                    "uv": [10,0,16,8],
+                    "texture": "#wall"
+                },
+                "west": {
+                    "uv": [0,3,10,16],
+                    "texture": "#wall"
+                },
+                "east": {
+                    "uv": [0,2,10,16],
+                    "texture": "#wall"
+                },
+                "north": {
+                    "uv": [10,0,16,8],
+                    "texture": "#wall"
+                },
+                "south": {
+                    "uv": [10,0,16,8],
+                    "texture": "#wall"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "parent": "block/cube_bottom_top",
+    
+	"textures": {
+        
+		"bottom": "block/gold_ore/marble_top_face",
+		"top": "block/gold_ore/marble_top_face"
+,
+		"side": "block/gold_ore" 
+    
+	}
+
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/gate/wall_gate_closed",
+    "textures": {
+        "particle": "block/fences/warped/warped_gate",
+        "0": "block/fences/warped/warped_gate"
+    }
+}

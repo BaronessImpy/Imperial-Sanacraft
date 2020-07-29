@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+        { "model": "block/plants/red_tulip/0" },
+        { "model": "block/plants/red_tulip/1" },
+        { "model": "block/plants/red_tulip/2" }
+    ]
+    }
+}

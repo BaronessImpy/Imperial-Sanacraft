@@ -1,0 +1,10 @@
+{
+    "parent": "block/cube_column",
+    
+"textures": {
+        
+"end": "block/stone_slab_top",
+        
+"side": "block/stone_slab_side"
+    }
+}

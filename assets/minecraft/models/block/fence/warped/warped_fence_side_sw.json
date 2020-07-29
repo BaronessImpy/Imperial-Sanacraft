@@ -1,0 +1,7 @@
+{
+    "parent": "block/fence/fence_side_sw",
+    "textures": {
+        "particle": "block/fences/warped/warped_fences",
+        "0": "block/fences/warped/warped_fence"
+    }
+}

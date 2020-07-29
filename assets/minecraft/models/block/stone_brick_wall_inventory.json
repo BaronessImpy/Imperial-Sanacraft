@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "minecraft:block/walls/stone_brick_wall_post"
+  }
+}

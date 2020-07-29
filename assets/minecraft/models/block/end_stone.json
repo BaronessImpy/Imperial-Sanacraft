@@ -1,0 +1,14 @@
+{
+    "parent": "block/cube_bottom_top",
+    
+	"textures": {
+        
+		"side": "block/end_stone",
+
+		"bottom": "block/end_stone_top",
+
+		"top": "block/end_stone_top"
+    
+	}
+
+}
