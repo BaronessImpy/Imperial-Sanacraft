@@ -1,0 +1,23 @@
+Imperial Sanacraft 1.16 Version: Bravo
+Managed by ImperialPhoenix, known as BaronessImpy
+------------------------
+
+Thank you to Dokucraft Contributor SyndiShadX for helping me fix the CTM issues with the stained glass panes. Sanacraft is indebted to you and all of Dokucraft. 
+
+Optifine:
+Restored the Optifine Componets - THESE WILL MOST LIKE BE BUGGY.
+
+	Stained Glass - CTM enabled, but no CTM textures unless I become less lazy. 
+
+	Brick Slabs - Stack them together.. see what you get. 
+
+	New blocks are a possibility with stacked slabs. 
+
+	Easter Eggs - rename items.. see what you get.
+
+	Few new textures. Sticks, Sugar, String..
+
+DynMap:
+Restored some textures to their default position as moving them apparently messes with the Dynmap.
+
+	Learn to follow code, you silly program! (Impy says even though this is usually the cause of 		bugs..)
